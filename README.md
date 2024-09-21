@@ -4,7 +4,7 @@
 
 <h3 align="center">Welcome to NFTunisia, your platform for buying and selling NFTs in Tunisia!</h3>
 <div align="center">
-    <img src="https://example.com/your-nftunisia-logo.png" alt="NFTunisia Logo" style="height: 100px;" />
+    <img src="https://i.ibb.co/bHZJp7p/nft-logo.png" alt="NFTunisia Logo" style="height: 200px;" />
 </div>
 
 👩‍💻 About the Project
@@ -55,3 +55,14 @@ Profile Views
 <div align="center">
     <img src="https://profile-counter.glitch.me/YOUR_PROFILE/count.svg?" />
 </div>
+
+## Prerequisites
+Before you begin, ensure you have met the following requirements:
+- Git must be installed on your operating system.
+
+## Run Locally
+To run NFTunisia locally, run this command in your terminal:
+
+**Linux and macOS:**
+```bash
+sudo git clone https://github.com/HoussemZorgui/NFT-Responsive-WebSite.git

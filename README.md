@@ -4,7 +4,7 @@
 
 <h3 align="center">Welcome to NFTunisia, your platform for buying and selling NFTs in Tunisia!</h3>
 <div align="center">
-    <img src="https://i.ibb.co/bHZJp7p/nft-logo.png" alt="NFTunisia Logo" style="height: 500px;" />
+    <img src="https://i.ibb.co/bHZJp7p/nft-logo.png" alt="NFTunisia Logo" style="height: 400px;" />
 </div>
 
 👩‍💻 About the Project

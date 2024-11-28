@@ -38,7 +38,12 @@ Our vision is to become the leading NFT marketplace in Tunisia, fostering innova
 
 
 <div align="center">
-    <img src="https://i.ibb.co/k3MbVjv/issue-banner.png" alt="Issue Banner" style="width: 100%; max-width: 600px;" />
+    <a href="https://ibb.co/YQ7N939">
+        <img src="https://i.ibb.co/Gpvdw0w/The-ATB-Bank-Wallet-is-a-secure-and-intuitive-app-that-allows-you-to-easily-manage-your-finances-mak.png" 
+             alt="The ATB Bank Wallet is a secure and intuitive app that allows you to easily manage your finances" 
+             border="0" 
+             style="width: 100%; max-width: 600px;" />
+    </a>
 </div>
 
 Join Us on Our Journey

@@ -36,6 +36,11 @@ Our vision is to become the leading NFT marketplace in Tunisia, fostering innova
 🔗 Project Link
 [Explore NFTunisia here!](https://nft-responsive-website.onrender.com)
 
+
+<div align="center">
+    <img src="https://i.ibb.co/k3MbVjv/issue-banner.png" alt="Issue Banner" style="width: 100%; max-width: 600px;" />
+</div>
+
 Join Us on Our Journey
 Dive into the fascinating world of NFTs with NFTunisia! We are committed to evolving the digital art scene in Tunisia. Stay tuned for updates and new features!
 
